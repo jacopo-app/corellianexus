@@ -18,6 +18,7 @@ RUN pnpm run build
 # ---- production stage ----
 FROM node:20-slim AS runner
 WORKDIR /app
+RUN apt-get update && apt-get install -y openssl && rm -rf /var/lib/apt/lists/*
 RUN npm install -g pnpm
 
 COPY --from=builder /app/node_modules ./node_modules
