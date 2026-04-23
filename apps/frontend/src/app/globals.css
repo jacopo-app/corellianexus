@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #030712;
+  color: #f9fafb;
+}
+
+@keyframes logo-pulse {
+  0%, 100% {
+    filter: drop-shadow(0 0 8px #22d3ee) drop-shadow(0 0 20px #06b6d4) drop-shadow(0 0 40px #0891b2);
+  }
+  50% {
+    filter: drop-shadow(0 0 14px #67e8f9) drop-shadow(0 0 32px #22d3ee) drop-shadow(0 0 60px #0e7490);
+  }
+}
+
+.logo-3d {
+  animation: logo-pulse 3s ease-in-out infinite;
+  transform: perspective(400px) rotateX(4deg);
+  transition: transform 0.3s ease;
+}
+
+.logo-3d:hover {
+  transform: perspective(400px) rotateX(0deg) scale(1.08);
+}
+
+@keyframes saber-flicker {
+  0%   { opacity: 1; }
+  8%   { opacity: 0.92; }
+  15%  { opacity: 1; }
+  40%  { opacity: 0.96; }
+  55%  { opacity: 1; }
+  72%  { opacity: 0.88; }
+  80%  { opacity: 1; }
+  100% { opacity: 1; }
+}
+
+@keyframes saber-hum {
+  0%, 100% { filter: brightness(1); }
+  50%       { filter: brightness(1.18); }
+}
+
+.saber-blade {
+  animation: saber-flicker 4s ease-in-out infinite, saber-hum 2.5s ease-in-out infinite;
+}
