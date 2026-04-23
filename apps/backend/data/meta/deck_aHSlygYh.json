@@ -1,0 +1,172 @@
+{
+  "name": "devo pescare le carte in fila per poter vincere - Copy",
+  "leader": "LOF_002",
+  "base": "LOF_026",
+  "cards": [
+    {
+      "card_id": "LOF_002",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "LOF_026",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "LOF_132",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_231",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_129",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_143",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_179",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_031",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_061",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_035",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_070",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_079",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_261",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_160",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_144",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_038",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_057",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_050",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_059",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_032",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_237",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_132",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_165",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_143",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LOF_067",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_038",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LOF_057",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_050",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_132",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 1,
+      "slot": "sideboard"
+    }
+  ]
+}

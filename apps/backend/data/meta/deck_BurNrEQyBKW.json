@@ -1,0 +1,127 @@
+{
+  "name": "Nexus Invitational 2nd Place - ADrinkwater",
+  "leader": "JTL_006",
+  "base": "SEC_026",
+  "cards": [
+    {
+      "card_id": "JTL_006",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "SEC_026",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "SEC_233",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_184",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_085",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_246",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_189",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_185",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_186",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_115",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_213",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_228",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_081",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_212",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_211",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_082",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_221",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_112",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_217",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_135",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_184",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_215",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_125",
+      "qty": 3,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_215",
+      "qty": 2,
+      "slot": "sideboard"
+    }
+  ]
+}

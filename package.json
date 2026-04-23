@@ -1,0 +1,7 @@
+{
+  "name": "corellia-nexus",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}

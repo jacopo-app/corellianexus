@@ -1,0 +1,219 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String        @id @default(uuid())
+  email        String        @unique
+  passwordHash String
+  createdAt    DateTime      @default(now())
+  decks        Deck[]
+  matches      Match[]
+}
+
+model Deck {
+  id        String        @id @default(uuid())
+  userId    String
+  name      String
+  createdAt DateTime      @default(now())
+  user      User          @relation(fields: [userId], references: [id])
+  versions  DeckVersion[]
+}
+
+model DeckVersion {
+  id            String     @id @default(uuid())
+  deckId        String
+  versionNumber Int
+  deckHash      String
+  sourceUrl     String?
+  leaderId      String?
+  baseId        String?
+  createdAt     DateTime   @default(now())
+  deck          Deck       @relation(fields: [deckId], references: [id])
+  cards         DeckCard[]
+  matches       Match[]
+
+  @@unique([deckId, deckHash])
+}
+
+model DeckCard {
+  id            String      @id @default(uuid())
+  deckVersionId String
+  cardId        String
+  quantity      Int
+  slot          String      @default("main")
+  deckVersion   DeckVersion @relation(fields: [deckVersionId], references: [id])
+}
+
+model OpponentArchetype {
+  id             String  @id @default(uuid())
+  name           String
+  normalizedName String  @unique
+  matches        Match[]
+}
+
+model Match {
+  id                     String                @id @default(uuid())
+  userId                 String
+  deckVersionId          String
+  opponentArchetypeId    String
+  opponentDeckVersionId  String?
+  result                 MatchResult
+  initiative             Initiative?
+  games                  String[]
+  createdAt              DateTime              @default(now())
+  user                   User                  @relation(fields: [userId], references: [id])
+  deckVersion            DeckVersion           @relation(fields: [deckVersionId], references: [id])
+  opponentArchetype      OpponentArchetype     @relation(fields: [opponentArchetypeId], references: [id])
+  opponentDeckVersion    OpponentDeckVersion?  @relation(fields: [opponentDeckVersionId], references: [id])
+}
+
+model MetaDeck {
+  id           String          @id @default(uuid())
+  date         DateTime
+  standing     Int
+  leaderName   String
+  baseName     String
+  leaderId     String?
+  baseId       String?
+  eventLevel   String
+  playerCount  Int
+  country      String
+  tournament   String
+  sourceUrl    String
+  createdAt    DateTime        @default(now())
+  cards        MetaDeckCard[]
+
+  @@unique([sourceUrl, standing])
+}
+
+model MetaDeckCard {
+  id         String   @id @default(uuid())
+  metaDeckId String
+  cardId     String
+  quantity   Int
+  slot       String   @default("main")
+  metaDeck   MetaDeck @relation(fields: [metaDeckId], references: [id])
+}
+
+model OpponentDeckVersion {
+  id        String               @id @default(uuid())
+  sourceUrl String?
+  leaderId  String?
+  baseId    String?
+  createdAt DateTime             @default(now())
+  cards     OpponentDeckCard[]
+  matches   Match[]
+}
+
+model OpponentDeckCard {
+  id                    String              @id @default(uuid())
+  opponentDeckVersionId String
+  cardId                String
+  quantity              Int
+  slot                  String              @default("main")
+  opponentDeckVersion   OpponentDeckVersion @relation(fields: [opponentDeckVersionId], references: [id])
+}
+
+model MatchupStat {
+  id                    String   @id @default(uuid())
+  leaderID              String
+  baseID                String
+  opponentLeaderID      String
+  opponentBaseID        String
+  numWins               Int
+  numPlays              Int
+  playsGoingFirst       Int
+  winsGoingFirst        Int
+  winsGoingSecond       Int
+  turnsInWins           Int
+  totalTurns            Int
+  cardsResourcedInWins  Int
+  totalCardsResourced   Int
+  remainingHealthInWins Int
+  updatedAt             DateTime @updatedAt
+
+  @@unique([leaderID, baseID, opponentLeaderID, opponentBaseID])
+  @@index([leaderID, baseID])
+}
+
+model DeckStat {
+  id                        String   @id @default(uuid())
+  leaderID                  String
+  leaderTitle               String
+  leaderSubtitle            String?
+  baseID                    String
+  baseTitle                 String
+  baseSubtitle              String?
+  numPlays                  Int
+  winRate                   Float
+  avgTurnsInWins            Float?
+  avgTurnsInLosses          Float?
+  avgCardsResourcedInWins   Float?
+  avgRemainingHealthInWins  Float?
+  updatedAt                 DateTime @updatedAt
+
+  @@unique([leaderID, baseID])
+  @@index([leaderID])
+}
+
+model CardStat {
+  id                      String   @id @default(uuid())
+  cardUid                 String   @unique
+  cardName                String?
+  timesIncluded           Int
+  timesIncludedInWins     Int
+  percentIncludedInWins   Float
+  timesPlayed             Int
+  timesPlayedInWins       Int
+  percentPlayedInWins     Float
+  timesResourced          Int
+  timesResourcedInWins    Int
+  percentResourcedInWins  Float
+  updatedAt               DateTime @updatedAt
+}
+
+model Card {
+  id          String   @id // es. "SOR_001" oppure "SOR_001_showcase"
+  set         String
+  number      String
+  variant     String   @default("standard") // standard | showcase | hyperspace | foil ecc.
+  name        String
+  subtitle    String?
+  type        String
+  aspects     String[]
+  traits      String[]
+  arenas      String[]
+  cost        String?
+  power       String?
+  hp          String?
+  frontText   String?
+  backText    String?
+  epicAction  String?
+  rarity      String
+  unique      Boolean  @default(false)
+  doubleSided Boolean  @default(false)
+  frontArt    String
+  backArt     String?
+  updatedAt   DateTime @updatedAt
+
+  @@index([set])
+  @@index([name])
+  @@index([type])
+}
+
+enum MatchResult {
+  win
+  loss
+}
+
+enum Initiative {
+  first
+  second
+}

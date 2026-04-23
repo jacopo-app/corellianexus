@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 43,
+    "name": "Star Wars Unlimited PREMIER Lunes 20 de abril 2026 | Melee",
+    "date": "2026-04-21",
+    "link": 419889,
+    "melee_url": "https://melee.gg/tournament/419889",
+    "decks_count": 21,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "JoeJolion",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Nadiri Dockyards",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "rocksolid",
+        "leaderName": "Darth Vader, Victor Squadron Leader",
+        "baseName": "Mos Eisley",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/030.png"
+      },
+      {
+        "rank": 3,
+        "player": "LocoBoster",
+        "leaderName": "Luke Skywalker, Hero of Yavin",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/012.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Tablerazo: SWU - Planetary Qualifier LAW | Melee",
+    "date": "2026-04-20",
+    "link": 420589,
+    "melee_url": "https://melee.gg/tournament/420589",
+    "decks_count": 26,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "CharlyLabra",
+        "leaderName": "Obi-Wan Kenobi, Courage Makes Heroes",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/008.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      },
+      {
+        "rank": 2,
+        "player": "Exax",
+        "leaderName": "Darth Maul, Sith Revealed",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      },
+      {
+        "rank": 3,
+        "player": "Dalek8",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Graal - Planetary Qualifier - Warsaw | Melee",
+    "date": "2026-04-20",
+    "link": 409441,
+    "melee_url": "https://melee.gg/tournament/409441",
+    "decks_count": 63,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Beton",
+        "leaderName": "Aurra Sing, Assassin",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "Harrison_Solo",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "siny",
+        "leaderName": "Colonel Yularen, This Is Why We Plan",
+        "baseName": "Massassi Temple",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/026.png"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Planetary Qualifier : Korriban Breizh | Melee",
+    "date": "2026-04-19",
+    "link": 408078,
+    "melee_url": "https://melee.gg/tournament/408078",
+    "decks_count": 74,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "DrMatou",
+        "leaderName": "Colonel Yularen, This Is Why We Plan",
+        "baseName": "Imperial Prison Complex",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/023.png"
+      },
+      {
+        "rank": 2,
+        "player": "NO_Kawa",
+        "leaderName": "Chewbacca, Hero of Kessel",
+        "baseName": "Coaxium Mine",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "Nicoodo",
+        "leaderName": "Enfys Nest, Until We Can Go No Higher",
+        "baseName": "Canto Bight",
+        "leaderArt": null,
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/028.png"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "A Lawless Time - Planetary Qualifier - 19.04.26 - [CardFest] | Melee",
+    "date": "2026-04-19",
+    "link": 413106,
+    "melee_url": "https://melee.gg/tournament/413106",
+    "decks_count": 25,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Netheniel",
+        "leaderName": "Avar Kriss, Marshal of Starlight",
+        "baseName": "The Holy City",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/007.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/030.png"
+      },
+      {
+        "rank": 2,
+        "player": "Solarisphere",
+        "leaderName": "Colonel Yularen, This Is Why We Plan",
+        "baseName": "Contested Caverns",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "FotisV",
+        "leaderName": "Luke Skywalker, Hero of Yavin",
+        "baseName": "Mos Eisley",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/012.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/030.png"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Premier Planetary Qualifier \"a Lawless Time\" | Melee",
+    "date": "2026-04-19",
+    "link": 412774,
+    "melee_url": "https://melee.gg/tournament/412774",
+    "decks_count": 35,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "CavalierCanzone",
+        "leaderName": "The Client, Please Lower Your Blaster",
+        "baseName": "Shield Generator Complex",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/016.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/020.png"
+      },
+      {
+        "rank": 2,
+        "player": "Trapper",
+        "leaderName": "Lando Calrissian, Full Sabacc",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/018.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      },
+      {
+        "rank": 3,
+        "player": "Babaz",
+        "leaderName": "Obi-Wan Kenobi, Courage Makes Heroes",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/008.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Planetary Qualifier | Melee",
+    "date": "2026-04-19",
+    "link": 412332,
+    "melee_url": "https://melee.gg/tournament/412332",
+    "decks_count": 38,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "WS_TheHunteR9281",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      },
+      {
+        "rank": 2,
+        "player": "Fireshow",
+        "leaderName": "Dedra Meero, Not Wasting Time",
+        "baseName": "Uscru Entertainment District",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/010.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/020.png"
+      },
+      {
+        "rank": 3,
+        "player": "chienyouki",
+        "leaderName": "Tobias Beckett, People are Predictable",
+        "baseName": "Nadiri Dockyards",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/027.png"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Beskar Forge Gaming A Lawless Time Planetary Qualifier | Melee",
+    "date": "2026-04-19",
+    "link": 412037,
+    "melee_url": "https://melee.gg/tournament/412037",
+    "decks_count": 18,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Walker1998",
+        "leaderName": "Darth Vader, Victor Squadron Leader",
+        "baseName": "Mos Eisley",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/030.png"
+      },
+      {
+        "rank": 2,
+        "player": "mmercer71",
+        "leaderName": "Luke Skywalker, Hero of Yavin",
+        "baseName": "Republic City",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/012.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "GingerChimp",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Mos Eisley",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/030.png"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Sector Qualifier - Atlanta - Saturday - 10:00 am | Melee",
+    "date": "2026-04-19",
+    "link": 414243,
+    "melee_url": "https://melee.gg/tournament/414243",
+    "decks_count": 409,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "ECL_TylerYork",
+        "leaderName": "Lando Calrissian, Full Sabacc",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/018.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      },
+      {
+        "rank": 2,
+        "player": "notapodaca",
+        "leaderName": "Obi-Wan Kenobi, Courage Makes Heroes",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/008.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "ECL_Chrispy",
+        "leaderName": "Lando Calrissian, Full Sabacc",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/018.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Star Wars A Lawless Time Planetary Qualifier | Melee",
+    "date": "2026-04-13",
+    "link": 412458,
+    "melee_url": "https://melee.gg/tournament/412458",
+    "decks_count": 38,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "CadeH13",
+        "leaderName": "Gar Saxon, Viceroy of Mandalore",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "ChristianTobey",
+        "leaderName": "Jango Fett, Concealing the Conspiracy",
+        "baseName": "Imperial Prison Complex",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/016.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/023.png"
+      },
+      {
+        "rank": 3,
+        "player": "HolmesDM",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Fortress Vader",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/026.png"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Gongaii Games - A Lawless Time Eternal Planetary Qualifier | Melee",
+    "date": "2026-04-13",
+    "link": 408964,
+    "melee_url": "https://melee.gg/tournament/408964",
+    "decks_count": 56,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Noahdude21",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Stygeon Spire",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "CarsonCarusoSWU",
+        "leaderName": "Iden Versio, Inferno Squad Commander",
+        "baseName": "Data Vault",
+        "leaderArt": null,
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Batmanthebracco",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Stygeon Spire",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/027.png"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Planetary Qualifier de la Taverne du Gobelin Farci | Melee",
+    "date": "2026-04-12",
+    "link": 409524,
+    "melee_url": "https://melee.gg/tournament/409524",
+    "decks_count": 100,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Moonlaps",
+        "leaderName": "Mother Talzin, Power Through Magick",
+        "baseName": "Strangled Cliffs",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "GU_Nelsiemon",
+        "leaderName": "Colonel Yularen, This Is Why We Plan",
+        "baseName": "Contested Caverns",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "Taelwyn",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Mox Boarding House Bellevue A Lawless Time Planetary Qualifier | Melee",
+    "date": "2026-04-05",
+    "link": 410136,
+    "melee_url": "https://melee.gg/tournament/410136",
+    "decks_count": 58,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Moy253",
+        "leaderName": "Jango Fett, Concealing the Conspiracy",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/016.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 2,
+        "player": "MarineTeng",
+        "leaderName": "Jango Fett, Concealing the Conspiracy",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/016.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "brandonteng",
+        "leaderName": "Jango Fett, Concealing the Conspiracy",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/016.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "PLANETARY QUALIFIER STAR WARS UNLIMITED SET 7 | Melee",
+    "date": "2026-03-29",
+    "link": 415936,
+    "melee_url": "https://melee.gg/tournament/415936",
+    "decks_count": 63,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "chienyouki",
+        "leaderName": "Tobias Beckett, People are Predictable",
+        "baseName": "Nadiri Dockyards",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "JamesKestis",
+        "leaderName": "Jyn Erso, Time to Fight",
+        "baseName": "Stygeon Spire",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/027.png"
+      },
+      {
+        "rank": 3,
+        "player": "sunnmetal",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Planetary Qualifier Turin | Melee",
+    "date": "2026-03-29",
+    "link": 412055,
+    "melee_url": "https://melee.gg/tournament/412055",
+    "decks_count": 40,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "GiollyIT",
+        "leaderName": "Colonel Yularen, This Is Why We Plan",
+        "baseName": "Stygeon Spire",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "Academo",
+        "leaderName": "Chewbacca, Hero of Kessel",
+        "baseName": "Alliance Outpost",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LAW/019.png"
+      },
+      {
+        "rank": 3,
+        "player": "CristianScazzosi",
+        "leaderName": "Tobias Beckett, People are Predictable",
+        "baseName": "Naval Intelligence HQ",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LAW/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/024.png"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Premier Regional Championship - Milwaukee - Saturday - 10:00 am | Melee",
+    "date": "2026-02-23",
+    "link": 391782,
+    "melee_url": "https://melee.gg/tournament/391782",
+    "decks_count": 712,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "MaJar",
+        "leaderName": "Han Solo, Audacious Smuggler",
+        "baseName": "Jabba's Palace",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SHD/026.png"
+      },
+      {
+        "rank": 2,
+        "player": "CarsonCarusoSWU",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 3,
+        "player": "SBS_NinjaFerret",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Planetary Qualifier - Citadel Hobby Store - Secrets of Power | Melee",
+    "date": "2026-02-15",
+    "link": 398418,
+    "melee_url": "https://melee.gg/tournament/398418",
+    "decks_count": 107,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "JARS_MatheusAlves",
+        "leaderName": "Qi'ra, I Alone Survived",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "JARS_Savanini",
+        "leaderName": "Supreme Leader Snoke, In the Seat of Power",
+        "baseName": "Lake Country",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/031.png"
+      },
+      {
+        "rank": 3,
+        "player": "CFAbreu",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Secrets of Power Planetary Qualifier @ RPG!!! | Melee",
+    "date": "2026-02-08",
+    "link": 378271,
+    "melee_url": "https://melee.gg/tournament/378271",
+    "decks_count": 22,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "JordanDI98",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "Twilgrimm",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "danjackson1",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Secrets of Power Planetary Qualifier - HobbiShack/BDST | Melee",
+    "date": "2026-02-08",
+    "link": 381497,
+    "melee_url": "https://melee.gg/tournament/381497",
+    "decks_count": 61,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "SC_Pyro",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 2,
+        "player": "BeskarPaul",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "AdemK",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Naval Intelligence HQ",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/024.png"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Planetary Qualifier - Ludotrotter Tours secrets du pouvoir | Melee",
+    "date": "2026-02-08",
+    "link": 388684,
+    "melee_url": "https://melee.gg/tournament/388684",
+    "decks_count": 122,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "BN_MaddieKinabox",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 2,
+        "player": "TKB_Rykyna",
+        "leaderName": "Sabine Wren, Galvanized Revolutionary",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 3,
+        "player": "NO_Roby",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Secrets of Power PQ | Melee",
+    "date": "2026-02-07",
+    "link": 379200,
+    "melee_url": "https://melee.gg/tournament/379200",
+    "decks_count": 43,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Ashergdf",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Rix Road",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SEC/019.png"
+      },
+      {
+        "rank": 2,
+        "player": "Stuart_McLuckie",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "JohR45",
+        "leaderName": "Qi'ra, I Alone Survived",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Planetary Qualifier Metrópolis Center 01/02 | Melee",
+    "date": "2026-02-01",
+    "link": 394592,
+    "melee_url": "https://melee.gg/tournament/394592",
+    "decks_count": 61,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "tarkin84",
+        "leaderName": "Han Solo, Audacious Smuggler",
+        "baseName": "Mos Eisley",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/030.png"
+      },
+      {
+        "rank": 2,
+        "player": "TGB_Euse",
+        "leaderName": "Sabé, Queen's Shadow",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "Carlosterre_HS",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Secrets of Power Planetary Qualifier | Melee",
+    "date": "2026-01-31",
+    "link": 376887,
+    "melee_url": "https://melee.gg/tournament/376887",
+    "decks_count": 61,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "JordanDI98",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "TomE2408",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 3,
+        "player": "BN_Buku",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Secrets of Power Planetary Qualifier @ Fan Boy Three | Melee",
+    "date": "2026-01-25",
+    "link": 378347,
+    "melee_url": "https://melee.gg/tournament/378347",
+    "decks_count": 48,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "howie",
+        "leaderName": "Emperor Palpatine, Galactic Ruler",
+        "baseName": "Dagobah Swamp",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/021.png"
+      },
+      {
+        "rank": 2,
+        "player": "G0llum",
+        "leaderName": "Qi'ra, I Alone Survived",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Nayboh",
+        "leaderName": "Sabé, Queen's Shadow",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SEC/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Star Wars Unlimited Secrets of Power Planetary Qualifier | 24th January | Melee",
+    "date": "2026-01-24",
+    "link": 379159,
+    "melee_url": "https://melee.gg/tournament/379159",
+    "decks_count": 41,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Darthsilk_DSP",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "JE14",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Stuart_McLuckie",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "SWU STORE SHOWDOWN SECRETS OF POWER - POLAR JOGOS | Melee",
+    "date": "2026-01-11",
+    "link": 391690,
+    "melee_url": "https://melee.gg/tournament/391690",
+    "decks_count": 27,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "marcowillen",
+        "leaderName": "Captain Rex, Fighting For His Brothers",
+        "baseName": "Droid Manufactory",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/007.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/TWI/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "Murlok",
+        "leaderName": "Han Solo, Audacious Smuggler",
+        "baseName": "Echo Base",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "_max",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Death Watch Hideout",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SHD/023.png"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Loading Planetary Qualifier | Melee",
+    "date": "2026-01-11",
+    "link": 376561,
+    "melee_url": "https://melee.gg/tournament/376561",
+    "decks_count": 54,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "OskarKristensen",
+        "leaderName": "Han Solo, Audacious Smuggler",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "Reader_DSP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 3,
+        "player": "Darthsilk_DSP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Boards and Swords Hobbies Planetary Qualifier | Melee",
+    "date": "2026-01-10",
+    "link": 379585,
+    "melee_url": "https://melee.gg/tournament/379585",
+    "decks_count": 52,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Buccanerd",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "Darthsilk_DSP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      },
+      {
+        "rank": 3,
+        "player": "h0lyhippie",
+        "leaderName": "Yoda, Sensing Darkness",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/004.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "SWU PLANETARY QUALIFIER JAN 4TH 2026 | Melee",
+    "date": "2026-01-04",
+    "link": 379931,
+    "melee_url": "https://melee.gg/tournament/379931",
+    "decks_count": 43,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "TheBeardedBaron",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "KCM Mining Facility",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/TWI/026.png"
+      },
+      {
+        "rank": 2,
+        "player": "TechyFIEND",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "AllyG_DSP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Geek Retreat Dudley Planetary Qualifier | Melee",
+    "date": "2025-12-21",
+    "link": 381514,
+    "melee_url": "https://melee.gg/tournament/381514",
+    "decks_count": 64,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "MotoTaleric_DSP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "JohR45",
+        "leaderName": "Qi'ra, I Alone Survived",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Honeybadger2399",
+        "leaderName": "Admiral Piett, Commanding the Armada",
+        "baseName": "Massassi Temple",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/005.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/026.png"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Planetary Qualifier Athens - OP.eu / No Label X | Melee",
+    "date": "2025-12-06",
+    "link": 373392,
+    "melee_url": "https://melee.gg/tournament/373392",
+    "decks_count": 28,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Netheniel",
+        "leaderName": "Anakin Skywalker, What it Takes to Win",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/012.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "TheNullException",
+        "leaderName": "Bossk, Hunting His Prey",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/010.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Jcedi",
+        "leaderName": "Gar Saxon, Viceroy of Mandalore",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Poznańskie Planetary Qualifier - Skład Gier | Melee",
+    "date": "2025-10-25",
+    "link": 375699,
+    "melee_url": "https://melee.gg/tournament/375699",
+    "decks_count": 101,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Jedrzej",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "Sajmiri",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "SIP",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "SWU - 2025 Planetary Qualifier | Melee",
+    "date": "2025-10-19",
+    "link": 343009,
+    "melee_url": "https://melee.gg/tournament/343009",
+    "decks_count": 64,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "CBG_JohnEllis",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      },
+      {
+        "rank": 2,
+        "player": "abledsoe452",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "CBG_Ruben",
+        "leaderName": "Gar Saxon, Viceroy of Mandalore",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Star Wars: Unlimited Regional Championship Bilbao - Premier Main Event | Melee",
+    "date": "2025-10-12",
+    "link": 370858,
+    "melee_url": "https://melee.gg/tournament/370858",
+    "decks_count": 676,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Nightbryd",
+        "leaderName": "Mother Talzin, Power Through Magick",
+        "baseName": "Strangled Cliffs",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/027.png"
+      },
+      {
+        "rank": 2,
+        "player": "SIP",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 3,
+        "player": "Beton",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sector Qualifier - Portland - Saturday - 10:00 am | Melee",
+    "date": "2025-10-06",
+    "link": 362793,
+    "melee_url": "https://melee.gg/tournament/362793",
+    "decks_count": 478,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "BobbySapphire",
+        "leaderName": "Emperor Palpatine, Galactic Ruler",
+        "baseName": "Jabba's Palace",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SHD/026.png"
+      },
+      {
+        "rank": 2,
+        "player": "tehPyro",
+        "leaderName": "Anakin Skywalker, What it Takes to Win",
+        "baseName": "Nightsister Lair",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/012.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/020.png"
+      },
+      {
+        "rank": 3,
+        "player": "dts1",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Greenhouse Games Star Wars Unlimited Planetary Qualifier (8/23/25) | Melee",
+    "date": "2025-08-24",
+    "link": 341038,
+    "melee_url": "https://melee.gg/tournament/341038",
+    "decks_count": 57,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Kal_MythicForce",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "AlexanderTheGreatest",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "Jy11",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Hobby Case: Legend's of the Force - Store Showdown | Melee",
+    "date": "2025-08-23",
+    "link": 349612,
+    "melee_url": "https://melee.gg/tournament/349612",
+    "decks_count": 18,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "MjHawzy",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "JWCACE",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "Theia",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mythic Games Legends of the Force Planetary Qualifier | Melee",
+    "date": "2025-08-17",
+    "link": 340653,
+    "melee_url": "https://melee.gg/tournament/340653",
+    "decks_count": 67,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "JerimiahSmith",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Starlight Temple",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "BradD",
+        "leaderName": "Poe Dameron, I Can Fly Anything",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Ari",
+        "leaderName": "Quinlan Vos, Sticking the Landing",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/TWI/018.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "goupiya StarWars | Melee",
+    "date": "2025-08-15",
+    "link": 352886,
+    "melee_url": "https://melee.gg/tournament/352886",
+    "decks_count": 7,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "MarcYb",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "MatMat91",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "Nicoco",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Galactic Championship Day One  | Melee",
+    "date": "2025-08-13",
+    "link": 334133,
+    "melee_url": "https://melee.gg/tournament/334133",
+    "decks_count": 1000,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "KnowWhere",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      },
+      {
+        "rank": 2,
+        "player": "kiramode7950",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "WilliamH",
+        "leaderName": "Sabine Wren, Galvanized Revolutionary",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Star Wars: Unlimited Planetary Qualifier - Legends of the Force | Melee",
+    "date": "2025-08-10",
+    "link": 342504,
+    "melee_url": "https://melee.gg/tournament/342504",
+    "decks_count": 78,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Reflex",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 2,
+        "player": "Rileytaves",
+        "leaderName": "Poe Dameron, I Can Fly Anything",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 3,
+        "player": "Chrispy2024",
+        "leaderName": "Kylo Ren, We're Not Done Yet",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Board in the City Planetary Qualifier | Melee",
+    "date": "2025-08-09",
+    "link": 347864,
+    "melee_url": "https://melee.gg/tournament/347864",
+    "decks_count": 60,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Vortex0389",
+        "leaderName": "Boba Fett, Any Methods Necessary",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "Redrufus10",
+        "leaderName": "Darth Vader, Victor Squadron Leader",
+        "baseName": "Shield Generator Complex",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/020.png"
+      },
+      {
+        "rank": 3,
+        "player": "Emperorkane",
+        "leaderName": "Sabine Wren, Galvanized Revolutionary",
+        "baseName": "Energy Conversion Lab",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tournoi Construit 09/08 | Melee",
+    "date": "2025-08-09",
+    "link": 346669,
+    "melee_url": "https://melee.gg/tournament/346669",
+    "decks_count": 6,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Revi",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "DarthShogun",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "Brighter",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Legends of the Force Planetary Qualifiers- ALEplanszowki | Melee",
+    "date": "2025-08-09",
+    "link": 343815,
+    "melee_url": "https://melee.gg/tournament/343815",
+    "decks_count": 43,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Gibki",
+        "leaderName": "Iden Versio, Inferno Squad Commander",
+        "baseName": "Data Vault",
+        "leaderArt": null,
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "SIP",
+        "leaderName": "Mother Talzin, Power Through Magick",
+        "baseName": "Fortress Vader",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/026.png"
+      },
+      {
+        "rank": 3,
+        "player": "Fantomas73",
+        "leaderName": "Darth Vader, Victor Squadron Leader",
+        "baseName": "Coronet City",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SHD/025.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "LOF Store Showdown | Melee",
+    "date": "2025-08-03",
+    "link": 347057,
+    "melee_url": "https://melee.gg/tournament/347057",
+    "decks_count": 11,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Picardy3rd",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 2,
+        "player": "notapodaca",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      },
+      {
+        "rank": 3,
+        "player": "RileyD",
+        "leaderName": null,
+        "baseName": null,
+        "leaderArt": null,
+        "baseArt": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Galactic Open | Melee",
+    "date": "2025-07-28",
+    "link": 342745,
+    "melee_url": "https://melee.gg/tournament/342745",
+    "decks_count": 590,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "Ebelden15",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 2,
+        "player": "MitchThor",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Jedi Temple",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/023.png"
+      },
+      {
+        "rank": 3,
+        "player": "AaronF",
+        "leaderName": "Kazuda Xiono, Best Pilot in the Galaxy",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/JTL/018.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Star Wars Unlimited Premier Format 1K  | Melee",
+    "date": "2025-07-14",
+    "link": 295030,
+    "melee_url": "https://melee.gg/tournament/295030",
+    "decks_count": 44,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "pheaver",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      },
+      {
+        "rank": 2,
+        "player": "GamecielGaming",
+        "leaderName": "Gar Saxon, Viceroy of Mandalore",
+        "baseName": "Administrator's Tower",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/001.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/029.png"
+      },
+      {
+        "rank": 3,
+        "player": "ToyotaMontoya",
+        "leaderName": "Emperor Palpatine, Galactic Ruler",
+        "baseName": "Colossus",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/006.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/021.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Star Wars Win-a-Carbonite | Melee",
+    "date": "2025-07-14",
+    "link": 328820,
+    "melee_url": "https://melee.gg/tournament/328820",
+    "decks_count": 21,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "kylecraft",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      },
+      {
+        "rank": 2,
+        "player": "TheTacoKid",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "Zeromus",
+        "leaderName": "Darth Maul, Sith Revealed",
+        "baseName": "Shadowed Undercity",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/LOF/009.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/LOF/021.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jump to Lightspeed Planetary Qualifier: Philadelphia | Melee",
+    "date": "2025-06-22",
+    "link": 306747,
+    "melee_url": "https://melee.gg/tournament/306747",
+    "decks_count": 90,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "allstarz97",
+        "leaderName": "Sabine Wren, Galvanized Revolutionary",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "DarK",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "Dagobah Swamp",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/021.png"
+      },
+      {
+        "rank": 3,
+        "player": "LBloom1904",
+        "leaderName": "Han Solo, Worth the Risk",
+        "baseName": "City in the Clouds",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/013.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/019.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Star Wars: Unlimited - Regional Qualifier - Minneapolis - Saturday 10:00 am | Melee",
+    "date": "2025-05-25",
+    "link": 273310,
+    "melee_url": "https://melee.gg/tournament/273310",
+    "decks_count": 636,
+    "topDecks": [
+      {
+        "rank": 1,
+        "player": "wooooo",
+        "leaderName": "Qi'ra, I Alone Survived",
+        "baseName": "Data Vault",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/002.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/JTL/024.png"
+      },
+      {
+        "rank": 2,
+        "player": "nootnoot",
+        "leaderName": "Cad Bane, He Who Needs No Introduction",
+        "baseName": "Tarkintown",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SHD/014.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+      },
+      {
+        "rank": 3,
+        "player": "AlexanderTheGreatest",
+        "leaderName": "Han Solo, Audacious Smuggler",
+        "baseName": "Command Center",
+        "leaderArt": "https://cdn.swu-db.com/images/cards/SOR/017.png",
+        "baseArt": "https://cdn.swu-db.com/images/cards/SOR/023.png"
+      }
+    ]
+  }
+]

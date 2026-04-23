@@ -1,0 +1,157 @@
+{
+  "name": "Boba Lake 34",
+  "leader": "JTL_009",
+  "base": "JTL_031",
+  "cards": [
+    {
+      "card_id": "JTL_009",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "JTL_031",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "LAW_174",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_175",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_179",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_162",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_237",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_172",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_143",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_182",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_135",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_240",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_137",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_136",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_140",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_173",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_171",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_133",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_183",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_208",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_130",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_175",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_259",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_182",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_181",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_208",
+      "qty": 1,
+      "slot": "sideboard"
+    }
+  ]
+}

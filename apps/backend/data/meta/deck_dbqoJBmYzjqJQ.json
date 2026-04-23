@@ -1,0 +1,137 @@
+{
+  "name": "Nexus Invitational 3rd Place - TeeMouse",
+  "leader": "LAW_006",
+  "base": "LAW_027",
+  "cards": [
+    {
+      "card_id": "LAW_006",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "LAW_027",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "LAW_089",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_147",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_075",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_051",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_179",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_046",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_049",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_069",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_148",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_078",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_105",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_048",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_176",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_045",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_151",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_050",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_164",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_117",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_202",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_170",
+      "qty": 3,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_078",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_175",
+      "qty": 2,
+      "slot": "sideboard"
+    }
+  ]
+}

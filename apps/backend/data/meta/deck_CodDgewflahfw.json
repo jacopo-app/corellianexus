@@ -1,0 +1,132 @@
+{
+  "name": "[S7] Jyn Showdown",
+  "leader": "LAW_005",
+  "base": "LAW_027",
+  "cards": [
+    {
+      "card_id": "LAW_005",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "LAW_027",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "SEC_176",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_179",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_069",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_051",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_048",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_151",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_105",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_046",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_046",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_045",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_149",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_148",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_256",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_153",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_148",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_104",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_089",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_069",
+      "qty": 3,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_202",
+      "qty": 1,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_078",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "LAW_191",
+      "qty": 3,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "JTL_235",
+      "qty": 1,
+      "slot": "sideboard"
+    }
+  ]
+}

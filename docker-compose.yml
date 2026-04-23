@@ -1,0 +1,46 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: corelia
+      POSTGRES_PASSWORD: corelia_password
+      POSTGRES_DB: corelia_nexus
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U corelia -d corelia_nexus"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: ./apps/backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://corelia:corelia_password@postgres:5432/corelia_nexus
+      JWT_SECRET: corelia-nexus-secret-change-in-production
+    ports:
+      - "3000:3000"
+
+  frontend:
+    build:
+      context: ./apps/frontend
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:3000
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "3001:3001"
+
+volumes:
+  postgres_data:

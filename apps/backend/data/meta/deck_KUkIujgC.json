@@ -1,0 +1,142 @@
+{
+  "name": "Nexus Invitational 7th Place - Mattalool",
+  "leader": "LOF_002",
+  "base": "LOF_027",
+  "cards": [
+    {
+      "card_id": "LOF_002",
+      "qty": 1,
+      "slot": "leader"
+    },
+    {
+      "card_id": "LOF_027",
+      "qty": 1,
+      "slot": "base"
+    },
+    {
+      "card_id": "LOF_031",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_143",
+      "qty": 1,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_028",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_127",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_132",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_061",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_144",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_129",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_208",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_231",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_157",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LAW_050",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_160",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_163",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "SEC_078",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_070",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_079",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_043",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_261",
+      "qty": 2,
+      "slot": "main"
+    },
+    {
+      "card_id": "LOF_035",
+      "qty": 3,
+      "slot": "main"
+    },
+    {
+      "card_id": "JTL_143",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_077",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_170",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_144",
+      "qty": 2,
+      "slot": "sideboard"
+    },
+    {
+      "card_id": "SEC_179",
+      "qty": 2,
+      "slot": "sideboard"
+    }
+  ]
+}
