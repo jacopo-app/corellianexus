@@ -12,8 +12,8 @@ FROM base AS builder
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
+RUN npx prisma generate
 RUN pnpm run build
-RUN pnpx prisma generate
 
 # ---- production stage ----
 FROM node:20-alpine AS runner
