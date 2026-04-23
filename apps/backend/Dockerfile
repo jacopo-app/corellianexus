@@ -1,4 +1,4 @@
-FROM node:20-alpine AS base
+FROM node:20-slim AS base
 RUN npm install -g pnpm
 
 # ---- deps stage ----
@@ -16,7 +16,7 @@ RUN npx prisma generate
 RUN pnpm run build
 
 # ---- production stage ----
-FROM node:20-alpine AS runner
+FROM node:20-slim AS runner
 WORKDIR /app
 RUN npm install -g pnpm
 
